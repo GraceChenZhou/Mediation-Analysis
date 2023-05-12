@@ -11,5 +11,5 @@ Bayesian mediation analysis; DTI; High-dimensional data; Neurodevelopment; Neuro
 # Authors
 **Grace Chen Zhou**, Jade Xiaoqing Wang, Yimei Li, Wilburn E. Reddick, Cai Li 
 
-# Status
+# Note
 Submitted
