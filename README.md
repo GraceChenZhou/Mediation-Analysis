@@ -9,7 +9,7 @@ imaging mediators. Specifically, we adopt a joint binary Ising-Gaussian Markov r
 Bayesian mediation analysis; DTI; High-dimensional data; Neurodevelopment; Neuroimaging; Longitudinal outcomes
 
 # Authors
-Grace Chen Zhou, Jade Xiaoqing Wang, Yimei Li, Wilburn E. Reddick, Cai Li 
+**Grace Chen Zhou**, Jade Xiaoqing Wang, Yimei Li, Wilburn E. Reddick, Cai Li 
 
 # Status
 Submitted
